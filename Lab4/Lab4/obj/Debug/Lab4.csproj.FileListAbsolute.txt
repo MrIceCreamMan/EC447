@@ -1,0 +1,10 @@
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\bin\Debug\Lab4.exe.config
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\bin\Debug\Lab4.exe
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\bin\Debug\Lab4.pdb
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\obj\Debug\Lab4.exe
+F:\Documents\Visual Studio 2017\Projects\EC441\Lab4\Lab4\obj\Debug\Lab4.pdb

@@ -1,0 +1,11 @@
+F:\Documents\Projects\EC441\Lab6\Lab6\bin\Debug\Lab6.exe.config
+F:\Documents\Projects\EC441\Lab6\Lab6\bin\Debug\Lab6.exe
+F:\Documents\Projects\EC441\Lab6\Lab6\bin\Debug\Lab6.pdb
+F:\Documents\Projects\EC441\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+F:\Documents\Projects\EC441\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+F:\Documents\Projects\EC441\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+F:\Documents\Projects\EC441\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+F:\Documents\Projects\EC441\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+F:\Documents\Projects\EC441\Lab6\Lab6\obj\Debug\Lab6.exe
+F:\Documents\Projects\EC441\Lab6\Lab6\obj\Debug\Lab6.pdb
+F:\Documents\Projects\EC441\Lab6\Lab6\obj\Debug\Lab6.Settings.resources
